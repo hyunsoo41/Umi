@@ -17,6 +17,7 @@
 
 ----------
 **1. 기획배경**
+
 ![image](https://user-images.githubusercontent.com/62391546/119246442-90a65e00-bbbc-11eb-89a6-d36feb09d81a.png)
 ![image](https://user-images.githubusercontent.com/62391546/119246447-99972f80-bbbc-11eb-93b2-6ba1a577e335.png)
 
@@ -38,10 +39,12 @@ CNN(Convolution Neural Network)을 이용해 음식 이미지 데이터를 학�
 
 ----------
 **5. 사업화 전략 수익 모델**
+
 ![image](https://user-images.githubusercontent.com/62391546/119246812-9f424480-bbbf-11eb-908d-ef76b16baa4c.png)
 
 ----------
 **6. 소개영상**
+
 [![image](https://user-images.githubusercontent.com/62391546/119246876-095ae980-bbc0-11eb-88d0-c3e37d1099b3.png)](https://youtu.be/y05WFybVUkk)
 
 ----------
