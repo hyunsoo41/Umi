@@ -19,7 +19,7 @@
 **1. 기획배경**
 
 ![image](https://user-images.githubusercontent.com/62391546/119246442-90a65e00-bbbc-11eb-89a6-d36feb09d81a.png)
-![image](https://user-images.githubusercontent.com/62391546/119246447-99972f80-bbbc-11eb-93b2-6ba1a577e335.png)
+![image](https://user-images.githubusercontent.com/62391546/119246937-b170b280-bbc0-11eb-8a33-e13ab7f163ac.png)
 
 ----------
 **2. 프로젝트 설명**
