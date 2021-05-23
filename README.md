@@ -1,7 +1,7 @@
 # Phoodrecipe
 
 ----------
-### 2021학년도 1학기 SW교융성과 컨벤션 AISW공모전
+### 2021학년도 1학기 SW교육성과 컨벤션 AISW공모전
 ![image](https://user-images.githubusercontent.com/62391546/119246368-f9d9a180-bbbb-11eb-9709-e5512fabaf59.png)
 
 ----------
