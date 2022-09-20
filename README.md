@@ -2,9 +2,7 @@
 
 ----------
 ### 2021학년도 1학기 SW 교육성과 컨벤션 AISW공모전
-![image](https://user-images.githubusercontent.com/62391546/119246368-f9d9a180-bbbb-11eb-9709-e5512fabaf59.png)
 
-----------
 **주제** : CNN 기술을 이용한 음식 사진 분석 및 recipe검색 서비스 
 
 **팀명** : Umi(우미)
